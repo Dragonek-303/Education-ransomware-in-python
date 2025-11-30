@@ -1,5 +1,7 @@
 # Education-ransomware-in-python
 I create this program beacouse... I don't know XD
+Python version:3.13.3
+
 
 
 Password:OnlyLinux69
