@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onedir --name Ransomware --icon="system.ico" --add-data "C:\Users\{USER}\AppData\Local\Programs\Python\Python313\tcl\tcl8.6;tcl\tcl8.6" --add-data "C:\Users\{USER}\AppData\Local\Programs\Python\Python313\tcl\tk8.6;tcl\tk8.6" --add-data "ransomware.ico;." ransomware.py
